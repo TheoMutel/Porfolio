@@ -31,6 +31,7 @@ Pour exécuter ce projet en local :
    
 Accédez au répertoire du projet :
 
+```bash
 cd Porfolio
 
 Auteur
