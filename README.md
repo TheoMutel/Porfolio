@@ -29,12 +29,6 @@ Pour exécuter ce projet en local :
    ```bash
    git clone https://github.com/TheoMutel/Porfolio.git
    
-Accédez au répertoire du projet :
-
-`bash
-cd Porfolio
-
-
 
 Auteur
 Théo Mutel : Étudiant en troisième année de BUT MMI à l'IUT Paul Sabatier de Castres, passionné par le développement web et les technologies de l'information.
